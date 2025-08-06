@@ -13,8 +13,10 @@ Proyecto#2
 3. Apuntadores 
 4. Entrada/Salida de flujos un análisis 
 5. Procesamiento de archivos
+6. 
 ##Autor -
 Justin Paniagua Solano
+
 *[LinkeIn] www.linkedin.com/in/justinpaniaguasolano
 
 ##Contratacion
