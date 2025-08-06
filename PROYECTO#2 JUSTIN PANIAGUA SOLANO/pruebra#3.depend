@@ -1,0 +1,30 @@
+# depslib dependency file v1.0
+1712267439 source:c:\users\jpani\onedrive\escritorio\00831 introduction a la programacion\proyecto#2\pruebra#3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string.h>
+
+1712347514 source:d:\pruebra#3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string.h>
+
+1712533490 source:e:\pruebra#3\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string.h>
+	<string>
+
+1712534826 source:e:\proyecto#2 justin paniagua solano\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<limits>
+	<string.h>
+

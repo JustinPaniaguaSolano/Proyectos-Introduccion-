@@ -1,0 +1,6 @@
+100 tableta
+101 aplicar
+103 aplicar
+104 aplicar
+105 capsula
+106 inyectar

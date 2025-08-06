@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1708214188 source:c:\users\jpani\onedrive\escritorio\a\main.cpp
+	<iostream>
+	<limits>
+	<string>
+	<iomanip>
+

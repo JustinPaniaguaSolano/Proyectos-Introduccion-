@@ -1,0 +1,7 @@
+100 acetaminofen 50
+101 paydos 35
+102 penicilina 25
+103 diclofenac 70
+104 terramicina 15
+105 amoxicilina 60
+106 dexamentasona 90
